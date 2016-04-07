@@ -9,8 +9,8 @@ controller that can communicate with ArduPilot (Copter, Plane and Rover)
 using MAVLink.
 
 With 3-axis control and MAVLink interface, the SToRM32 offers more
-capabilities and than the Tarot Gimbal.  MAVLink is a richer
-communications format that PWM and may be used in the future to provide
+capabilities than the Tarot Gimbal.  MAVLink is a richer
+communications format than PWM and may be used in the future to provide
 additional information to the gimbal including centrefugal force
 corrections leading to better performance during aggressive maneuvers.
 
